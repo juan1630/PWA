@@ -6,5 +6,12 @@
 - Fetch 
 
 #Instalaciones 
-``` npm i
+```
+npm i
+
+```
+
+## Correr el comando el
+```
+    Se debe de corre el comando http-server -o
 ```
