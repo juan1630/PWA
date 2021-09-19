@@ -4,3 +4,7 @@
 - Install
 - Activo
 - Fetch 
+
+#Instalaciones 
+``` npm i
+```
