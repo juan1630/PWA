@@ -12,6 +12,8 @@ npm i
 ```
 
 ## Correr el comando el
+
+    Se debe de corre el comando
 ```
-    Se debe de corre el comando http-server -o
+     http-server -o
 ```
